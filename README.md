@@ -29,18 +29,34 @@ The objective was to centralize authentication and user management within a corp
 - Systems Administration
 - Network Services Configuration
 - Active Directory Management
-- Troubleshooting
 - Infrastructure Deployment
 
 ## Screenshots
 
 Add screenshots showing:
 
-- Server installation
-- Active Directory deployment
-- DNS configuration
-- DHCP scopes
-- Domain Controller status
+### Windows Server Installation
+
+![Windows Server Installation](windows-server-installation.png)
+
+### Domain Rename
+
+![Domain Rename](domain-rename.png)
+
+### Static IP Configuration
+
+![Static IP Configuration](static-ip-configuration.png)
+
+### Active Directory Installation
+
+![Active Directory Installation](active-directory-installation.png)
+
+### DHCP Configuration
+
+![DHCP Configuration](dhcp-scope-1.png)
+
+![DHCP Configuration](dhcp-scope-2.png)
+
 
 ## Project Outcome
 
