@@ -21,3 +21,27 @@ The objective was to centralize authentication and user management within a corp
 - Domain Controller deployment
 - DNS configuration
 - DHCP scope creation
+- Remote Desktop activation
+- Domain integration
+
+## Skills Demonstrated
+
+- Systems Administration
+- Network Services Configuration
+- Active Directory Management
+- Troubleshooting
+- Infrastructure Deployment
+
+## Screenshots
+
+Add screenshots showing:
+
+- Server installation
+- Active Directory deployment
+- DNS configuration
+- DHCP scopes
+- Domain Controller status
+
+## Project Outcome
+
+Successfully deployed a functional Active Directory environment capable of managing users, devices, DNS, and DHCP services.
